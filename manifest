@@ -1,0 +1,25 @@
+{
+  "id": "system-window-tracker-canvas-map",
+  "name": "System Window Tracker & Canvas Map",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Advanced OS System Window Tracker, Active App Logger, Browser URL Monitor, and Auto-Canvas Map generator for productivity power users.",
+  "author": "SystemTrackerDev",
+  "authorUrl": "https://github.com/systemtrackerdev",
+  "isDesktopOnly": true,
+  "fundingUrl": "https://gumroad.com/l/system-window-tracker",
+  "keywords": [
+    "System",
+    "Window",
+    "Tracker",
+    "OS",
+    "Canvas",
+    "Map",
+    "Auto-Logger",
+    "Active Apps",
+    "Browser URL",
+    "Productivity",
+    "Telemetry",
+    "Workspace"
+  ]
+}
